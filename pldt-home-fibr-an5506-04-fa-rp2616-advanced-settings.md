@@ -18,15 +18,22 @@ password: 1234
 ```
 http://192.168.1.1/application/ddns.asp			# Configure DDNS
 http://192.168.1.1/application/dmz.asp			# Set host IP to DMZ
+http://192.168.1.1/application/samba.asp                # Enable or disable samba service
 http://192.168.1.1/application/ping_diagnosis.asp	# Network diagnosis. Ping and Traceroute
 http://192.168.1.1/application/port_forwarding.asp      # Configure port forwarding
 http://192.168.1.1/application/redirect.asp		# blank
 http://192.168.1.1/application/upnp.asp			# Configure UPnP enable/disable
 
+http://192.168.1.1/help/
+
+http://192.168.1.1/internet/dhcp_macband.asp            # blank
 http://192.168.1.1/internet/dhcp_service.asp		# Enable/disable DHCP functions, configure parameters
 http://192.168.1.1/internet/dhcp_userlist.asp		# Display information about DHCP client, include IP address, MAC address and lease
 http://192.168.1.1/internet/lan.asp			# Setup router IP address and subnet mask
+http://192.168.1.1/internet/qos.asp                     # blank
 http://192.168.1.1/internet/wan_user.asp		# blank
+
+http://192.168.1.1/lang/
 
 http://192.168.1.1/log/log.asp			        # View router logs
 
@@ -34,6 +41,8 @@ http://192.168.1.1/management/account_self_admin.asp	# Configure admin account
 http://192.168.1.1/management/reboot.asp	        # Reboot
 http://192.168.1.1/management/restore.asp       	# Restore device configuration (!)
 http://192.168.1.1/management/update.asp	        # Upgrade firmware (!)
+
+http://192.168.1.1/menu/
 
 http://192.168.1.1/security/ddos.asp		        # Enable/disable DDOS
 http://192.168.1.1/security/firewall_enable.asp		# Configure firewall enable/disable
@@ -45,6 +54,7 @@ http://192.168.1.1/security/parental_control.asp	# Parental Control
 http://192.168.1.1/security/port_scan.asp		# Configure Anti Port Scan enable/disable
 http://192.168.1.1/security/remote_control.asp		# Access the web interface through WAN (!)
 http://192.168.1.1/security/url_filter.asp		# Filter urls if firewall is enabled
+http://192.168.1.1/security/wps.asp                     # Configure WPS
 
 http://192.168.1.1/state/deviceInfor.asp		# Device information
 http://192.168.1.1/state/lan_state.asp			# LAN state
@@ -54,13 +64,15 @@ http://192.168.1.1/state/wan_state.asp			# WAN interface state
 http://192.168.1.1/state/wireless_state.asp		# Wireless state
 http://192.168.1.1/state/wireless_state_5g.asp		# Wireless 5GHz state
 
+http://192.168.1.1/voip/
+
 http://192.168.1.1/wireless/basic.asp			# Configure wireless settings
 http://192.168.1.1/wireless/basic_5g.asp		# Configure wireless 5GHz settings
+http://192.168.1.1/wireless/security_romania.asp	# Configure wireless password and encryption
 http://192.168.1.1/wireless/security.asp		# Configure wireless password and encryption
 http://192.168.1.1/wireless/security_5g.asp		# Configure wireless 5GHz password and encryption
 http://192.168.1.1/wireless/wifimaclist.asp		# WIFI clients list
 http://192.168.1.1/wireless/wifipowerctrl.asp		# Set WIFI power and the number of WIFI access here
-http://192.168.1.1/wireless/wps.asp			# Configure WPS
 
 # Resource files
 

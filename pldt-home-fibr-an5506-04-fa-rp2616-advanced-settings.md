@@ -27,7 +27,7 @@ http://192.168.1.1/application/upnp.asp			# Configure UPnP enable/disable
 http://192.168.1.1/help/
 
 http://192.168.1.1/internet/dhcp_macband.asp            # blank
-http://192.168.1.1/internet/dhcp_portband.asp
+http://192.168.1.1/internet/dhcp_portband.asp           # blank
 http://192.168.1.1/internet/dhcp_service.asp		# Enable/disable DHCP functions, configure parameters
 http://192.168.1.1/internet/dhcpv6_portband.asp         # blank
 http://192.168.1.1/internet/dhcp_userlist.asp		# Display information about DHCP client, include IP address, MAC address and lease

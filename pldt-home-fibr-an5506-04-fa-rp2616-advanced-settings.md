@@ -27,11 +27,14 @@ http://192.168.1.1/application/upnp.asp			# Configure UPnP enable/disable
 http://192.168.1.1/help/
 
 http://192.168.1.1/internet/dhcp_macband.asp            # blank
+http://192.168.1.1/internet/dhcp_portband.asp
 http://192.168.1.1/internet/dhcp_service.asp		# Enable/disable DHCP functions, configure parameters
+http://192.168.1.1/internet/dhcpv6_portband.asp         # blank
 http://192.168.1.1/internet/dhcp_userlist.asp		# Display information about DHCP client, include IP address, MAC address and lease
 http://192.168.1.1/internet/lan.asp			# Setup router IP address and subnet mask
 http://192.168.1.1/internet/pppoe_accout.asp            # Modify PPPoE account
 http://192.168.1.1/internet/qos.asp                     # blank
+http://192.168.1.1/internet/wan_romania.asp             # Choose different connection type suitable for your environment. Besides, you may also configure parameters according to the selected connection type (!)
 http://192.168.1.1/internet/wan_user.asp		# blank
 
 http://192.168.1.1/lang/
@@ -60,11 +63,15 @@ http://192.168.1.1/security/wps.asp                     # Configure WPS
 
 http://192.168.1.1/state/deviceInfor.asp		# Device information
 http://192.168.1.1/state/lan_state.asp			# LAN state
+http://192.168.1.1/state/lan_state_count.asp            # Query the state of LAN port
 http://192.168.1.1/state/opt_power.asp			# Optical power state
+http://192.168.1.1/state/pon_info.asp                   # Query information of PON interface
 http://192.168.1.1/state/voip_auth_status.asp		# VoIP state
 http://192.168.1.1/state/wan_state.asp			# WAN interface state
 http://192.168.1.1/state/wireless_state.asp		# Wireless state
 http://192.168.1.1/state/wireless_state_5g.asp		# Wireless 5GHz state
+
+http://192.168.1.1/tr069/tr069.asp                      # Configure the url, username, password, connectionRequestUsername, connectionRequestPassword of TR069 basic settings (!)
 
 http://192.168.1.1/voip/
 

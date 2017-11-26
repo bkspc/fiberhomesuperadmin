@@ -42,8 +42,6 @@ http://192.168.1.1/internet/wan_romania.asp             # Choose different conne
 http://192.168.1.1/internet/wan_sfu.asp                 # Choose different connection type suitable for your environment. Besides, you may also configure parameters according to the selected connection type (!)
 http://192.168.1.1/internet/wan_user.asp		# blank
 
-http://192.168.1.1/lang/
-
 http://192.168.1.1/log/log.asp			        # View router logs
 
 http://192.168.1.1/management/account_admin.asp         # Configure admin account
@@ -114,9 +112,23 @@ http://192.168.1.1/js/jquery.js
 http://192.168.1.1/js/menu_tips.js
 http://192.168.1.1/js/frame_romania.js
 http://192.168.1.1/js/menuparse.js
+http://192.168.1.1/js/ajaxupload.3.2.js
+http://192.168.1.1/js/frame_3bb.js
+http://192.168.1.1/js/wan.js
+http://192.168.1.1/js/wifibasic.js
 
 http://192.168.1.1/lang/b28n.js
+http://192.168.1.1/lang/en/account.xml
+http://192.168.1.1/lang/en/firewall.xml
+http://192.168.1.1/lang/en/internet.xml
+http://192.168.1.1/lang/en/log.xml
+http://192.168.1.1/lang/en/menu.xml
+http://192.168.1.1/lang/en/restore.xml
+http://192.168.1.1/lang/en/state.xml
+http://192.168.1.1/lang/en/wireless.xml
+http://192.168.1.1/lang/en/errorpage.xml
 
+http://192.168.1.1/menu/sfu/ph_pldt/hisi5116/voip_dualwifi/sip/1.xml
 http://192.168.1.1/menu/hgu/ecuador/voipwifi/sip/1.xml
 http://192.168.1.1/menu/hgu/romania/voipwifi/sip/1.xml
 

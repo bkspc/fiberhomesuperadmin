@@ -102,9 +102,6 @@ http://192.168.1.1/wireless/wifipowerctrl_5g.asp        # Set WIFI power and the
 
 # Resource files
 
-http://192.168.1.1/images/login_pldt.jpg
-http://192.168.1.1/images/pldt_fibr.png
-
 http://192.168.1.1/js/utils.js
 http://192.168.1.1/js/checkValue.js
 http://192.168.1.1/js/versionControl.js

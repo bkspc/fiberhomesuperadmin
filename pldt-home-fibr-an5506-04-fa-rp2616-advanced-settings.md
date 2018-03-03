@@ -10,6 +10,12 @@ We need to be logged in before we can do anything else, use your defined passwor
 
 Note that you have to log in again if you're idle for a few minutes on the web interface.
 
+### Donations
+
+Patreon: patreon.com/kbeflo
+
+BTC: 14o7BmmrED439X8F9f78zxFNJ9bcAWGF1X
+
 ```
 username: admin
 password: 1234

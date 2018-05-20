@@ -14,8 +14,8 @@ Note that you have to log in again if you're idle for a few minutes on the web i
 
 A walkthrough on my current progress on hacking the PLDT FIBR AN5506-04-FA router RP2616
 
-[PLDT Home Fiber router hacking](https://git.io/vphzc)
-[PLDT Home Fiber router hacking console access](https://git.io/vphKr)
+[PLDT Home Fiber router hacking](https://git.io/vphzc)<br>
+[PLDT Home Fiber router hacking console access](https://git.io/vphKr)<br>
 [PLDT Home Fiber router hacking firmware and files dump](https://git.io/vphK6)
 
 ### Donations

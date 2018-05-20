@@ -10,6 +10,12 @@ We need to be logged in before we can do anything else, use your defined passwor
 
 Note that you have to log in again if you're idle for a few minutes on the web interface.
 
+### Walkthrough
+
+A walkthrough on my current progress on hacking the PLDT FIBR AN5506-04-FA router RP2616
+
+https://git.io/vphzc
+
 ### Donations
 
 Patreon: patreon.com/kbeflo

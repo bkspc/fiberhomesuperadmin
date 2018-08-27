@@ -21,8 +21,7 @@ A walkthrough on my current progress on hacking the PLDT FIBR AN5506-04-FA route
 ### Donations
 
 Patreon: patreon.com/kbeflo
-
-BTC: 14o7BmmrED439X8F9f78zxFNJ9bcAWGF1X
+Ko-fi: ko-fi.com/kbeflo
 
 ```
 username: admin

@@ -17,12 +17,11 @@ A walkthrough on my current progress on hacking the PLDT FIBR AN5506-04-FA route
 [PLDT Home Fiber router hacking](https://git.io/vphzc)<br>
 [PLDT Home Fiber router hacking console access](https://git.io/vphKr)<br>
 [PLDT Home Fiber router hacking firmware and files dump](https://git.io/vphK6)
+[PLDT Home Fiber router web interface admin access](https://git.io/fA2yT)
 
 ### Donations
 
 Patreon: patreon.com/kbeflo
-
-Ko-fi: ko-fi.com/kbeflo
 
 ```
 username: admin

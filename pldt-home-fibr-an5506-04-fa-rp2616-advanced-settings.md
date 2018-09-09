@@ -23,6 +23,10 @@ A walkthrough on my current progress on hacking the PLDT FIBR AN5506-04-FA route
 
 Patreon: patreon.com/kbeflo
 
+### URLs
+
+As of RP2627 update the URLs below are now restricted and will redirect back to the login page.
+
 ```
 username: admin
 password: 1234

@@ -1,6 +1,6 @@
-### PLDT HOME FIBR AN5506-04-FA RP2616 Advanced Settings
+### PLDT HOME FIBR AN5506-04-FA RP2627 Advanced Settings
 
-By default the PLDT HOME FIBR AN5506-04-FA RP2616 comes only with limited settings.
+By default the PLDT HOME FIBR AN5506-04-FA RP2627 comes only with limited settings.
 
 Hidden from the web interface are the rest of the router's capabilities and advanced settings.
 
@@ -29,7 +29,7 @@ Server: https://discord.gg/bEqEdbA
 
 ### URLs
 
-As of RP2627 update the URLs below are now restricted and will redirect back to the login page.
+The URLs were usable from version RP2616 and lower but as of RP2627 update the URLs below are now restricted and will redirect back to the login page. 
 
 ```
 username: admin

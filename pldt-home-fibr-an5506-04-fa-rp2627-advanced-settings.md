@@ -2,17 +2,15 @@
 
 By default the PLDT HOME FIBR AN5506-04-FA RP2627 comes only with limited settings.
 
-Hidden from the web interface are the rest of the router's capabilities and advanced settings.
+The following walkthrough consists of opening the device and enabling the advanced settings using the device serial console to enable access to the admin account on the web interface.
 
-We just need to enter the right url for the settings you're looking for.
+### Disclaimer
 
-We need to be logged in before we can do anything else, use your defined password if you already set the admin password.
-
-Note that you have to log in again if you're idle for a few minutes on the web interface.
+This will definitely void your device ISP warranty. Any modifications done to your device comes with no guarantee. We have no responsibility to any damage that can happen to your devices, do at your own risk.
 
 ### Walkthrough
 
-A walkthrough on my current progress on hacking the PLDT FIBR AN5506-04-FA router RP2616
+A walkthrough on hacking the PLDT FIBR AN5506-04-FA router RP2627
 
 [PLDT Home Fiber router hacking](https://git.io/vphzc)<br>
 [PLDT Home Fiber router hacking console access](https://git.io/vphKr)<br>
@@ -27,9 +25,17 @@ Patreon: https://patreon.com/kbeflo
 
 Server: https://discord.gg/bEqEdbA
 
-### URLs
+### Hidden URLs
 
 The URLs were usable from version RP2616 and lower but as of RP2627 update the URLs below are now restricted and will redirect back to the login page. 
+
+Hidden from the web interface are the rest of the router's capabilities and advanced settings.
+
+We just need to enter the right url for the settings you're looking for.
+
+We need to be logged in before we can do anything else, use your defined password if you already set the admin password.
+
+Note that you have to log in again if you're idle for a few minutes on the web interface.
 
 ```
 username: admin

@@ -10,7 +10,7 @@ This will definitely void your device ISP warranty. Any modifications done to yo
 
 ### Walkthrough
 
-A walkthrough on hacking the PLDT FIBR AN5506-04-FA router RP2627
+A walkthrough on hacking the PLDT FIBR AN5506-04-FA RP2627 router
 
 [PLDT Home Fiber router hacking](https://git.io/vphzc)<br>
 [PLDT Home Fiber router hacking console access](https://git.io/vphKr)<br>

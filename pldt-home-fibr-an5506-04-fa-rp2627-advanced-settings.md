@@ -29,13 +29,13 @@ Server: https://discord.gg/bEqEdbA
 
 The URLs were usable from version RP2616 and lower but as of RP2627 update the URLs below are now restricted and will redirect back to the login page. 
 
-~~Hidden from the web interface are the rest of the router's capabilities and advanced settings.
+~~Hidden from the web interface are the rest of the router's capabilities and advanced settings.~~
 
-~~We just need to enter the right url for the settings you're looking for.
+~~We just need to enter the right url for the settings you're looking for.~~
 
-~~We need to be logged in before we can do anything else, use your defined password if you already set the admin password.
+~~We need to be logged in before we can do anything else, use your defined password if you already set the admin password.~~
 
-~~Note that you have to log in again if you're idle for a few minutes on the web interface.
+~~Note that you have to log in again if you're idle for a few minutes on the web interface.~~
 
 ```
 username: admin

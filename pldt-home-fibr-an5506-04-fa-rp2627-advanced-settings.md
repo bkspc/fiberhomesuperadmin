@@ -6,7 +6,7 @@ The following walkthrough consists of opening the device and enabling the advanc
 
 ### Disclaimer
 
-This will definitely void your device ISP warranty. Any modifications done to your device comes with no guarantee. We have no responsibility to any damage that can happen to your devices, do at your own risk.
+This will definitely void your device ISP warranty. Any modifications done to your device comes with no guarantee. We have no responsibility to any damage that can happen to your devices. If you proceed to do so, **modify at your own risk**.
 
 ### Walkthrough
 

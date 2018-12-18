@@ -12,10 +12,10 @@ This will definitely void your device ISP warranty. Any modifications done to yo
 
 A walkthrough on hacking the PLDT FIBR AN5506-04-FA RP2627 router
 
-[PLDT Home Fiber router hacking](https://git.io/vphzc)<br>
-[PLDT Home Fiber router hacking console access](https://git.io/vphKr)<br>
-[PLDT Home Fiber router hacking firmware and files dump](https://git.io/vphK6)<br>
-[PLDT Home Fiber router web interface admin access](https://git.io/fA2yT)
+[PLDT Home Fiber router hacking](https://git.io/fpxNT)<br>
+[PLDT Home Fiber router console access](https://git.io/fpxNk)<br>
+[PLDT Home Fiber router firmware and files](https://git.io/fpxNI)<br>
+[PLDT Home Fiber router web interface admin access](https://git.io/fpxNL)
 
 ### Donations
 

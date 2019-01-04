@@ -23,7 +23,7 @@ Patreon: https://patreon.com/kbeflo
 
 ### Discord
 
-Server: https://discord.gg/bEqEdbA
+\#routers: https://discord.gg/C43625u
 
 ### Hidden URLs
 

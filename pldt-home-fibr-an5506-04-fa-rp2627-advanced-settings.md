@@ -25,7 +25,7 @@ A walkthrough on hacking the PLDT FIBR AN5506-04-FA RP2627 router
 
 ### Donations
 
-Patreon: https://patreon.com/kbeflo
+Paypal: https://www.paypal.me/kbeflo
 
 ### Discord
 

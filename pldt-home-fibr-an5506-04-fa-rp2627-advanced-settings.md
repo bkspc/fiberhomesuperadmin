@@ -4,6 +4,10 @@ By default the PLDT HOME FIBR AN5506-04-FA RP2627 comes only with limited settin
 
 The following walkthrough consists of opening the device and enabling the advanced settings using the device serial console to enable access to the admin account on the web interface.
 
+### Rules
+
+Avoid directly posting images, it causes this page to become heavier and load much longer. Use links to image hosting sites https://i.imgur.com/UqX95Pb.gifv
+
 ### Disclaimer
 
 This will definitely void your device ISP warranty. Any modifications done to your device comes with no guarantee. We have no responsibility to any damage that can happen to any of your devices. **Mod at your own risk**.

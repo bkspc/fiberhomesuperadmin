@@ -6,13 +6,19 @@ The following walkthrough consists of opening the device and enabling the advanc
 
 ### Rules
 
-Avoid directly posting images, it causes this page to become heavier and load much longer. Use links to image hosting sites https://i.imgur.com/UqX95Pb.gifv
+**Avoid directly posting images**, it causes this page to become heavier and load much longer. Use links to image hosting sites https://i.imgur.com/UqX95Pb.gifv
 
-Avoid 3rd party link shorteners
+**Avoid 3rd party link shorteners**
+
+A lot of answers have already been answered, **backread before asking**.
+
+This is not your ISP support thread. Effort and time devoted by people on this thread is not paid for. **Do not ask to be spoon-fed**.
 
 ### Disclaimer
 
-This will definitely void your device ISP warranty. Any modifications done to your device comes with no guarantee. We have no responsibility to any damage that can happen to any of your devices. **Mod at your own risk**.
+This will void your device ISP warranty. Any modification done to your device comes with no guarantee. 
+
+Help from other members are appreciated, follow under your own discretion. We have no responsibility to any damage that can happen to any of your devices. **Mod at your own risk**.
 
 ### Walkthrough
 

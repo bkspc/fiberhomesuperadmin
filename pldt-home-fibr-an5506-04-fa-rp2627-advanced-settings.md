@@ -31,7 +31,7 @@ A walkthrough on hacking the PLDT FIBR AN5506-04-FA RP2627 router
 
 ### Frequently Asked Questions
 
-#### Activate LAN PORTS 2-4 / Remove AP ISOLATION
+#### How to activate LAN PORTS 2-4 / Remove AP ISOLATION?
 
 1. Gain admin access
 

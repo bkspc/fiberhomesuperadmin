@@ -29,6 +29,20 @@ A walkthrough on hacking the PLDT FIBR AN5506-04-FA RP2627 router
 [PLDT Home Fiber router firmware and files](https://kbeflo.github.io/2018/05/20/PLDT-Home-Fiber-router-firmware-and-files/)<br>
 [PLDT Home Fiber router web interface admin access](https://kbeflo.github.io/2018/09/09/PLDT-Home-Fiber-web-interface-admin-access/)
 
+### Frequently Asked Questions
+
+#### Activate LAN PORTS 2-4 / Remove AP ISOLATION
+
+1. Gain admin access
+
+Instructions: https://kbeflo.github.io/2018/09/09/PLDT-Home-Fiber-web-interface-admin-access/
+
+2. On the web interface, Network > BroadBand Settings > Internet Settings 
+
+Check all the boxes on: LAN Binding, 2.4G SSID Binding and 5G SSID Binding
+
+3. Example: https://kbeflo.github.io/img/2018-09-09/01.png
+
 ### Donations
 
 Paypal: https://www.paypal.me/kbeflo

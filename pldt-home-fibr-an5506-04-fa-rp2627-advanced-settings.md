@@ -41,7 +41,7 @@ Instructions: https://kbeflo.github.io/2018/09/09/PLDT-Home-Fiber-web-interface-
 
 Check all the boxes on: LAN Binding, 2.4G SSID Binding and 5G SSID Binding
 
-3. Example: https://kbeflo.github.io/img/2018-09-09/01.png
+Example: https://kbeflo.github.io/img/2018-09-09/01.png
 
 ### Donations
 

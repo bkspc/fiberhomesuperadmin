@@ -1,5 +1,12 @@
 ### PLDT HOME FIBR AN5506-04-FA RP2627 Advanced Settings
 
+---
+#### Notice
+
+##### Project moved to https://gitlab.com/kbeflo/fiberhomesuperadmin
+##### Discussion here on Gist is still allowed but I strongly recommend going over to Gitlab or Discord chat
+---
+
 By default the PLDT HOME FIBR AN5506-04-FA RP2627 comes only with limited settings.
 
 The following walkthrough consists of opening the device and enabling the advanced settings using the device serial console to enable access to the admin account on the web interface.
@@ -24,10 +31,10 @@ Help from other members are appreciated, follow under your own discretion. We ha
 
 A walkthrough on hacking the PLDT FIBR AN5506-04-FA RP2627 router
 
-[PLDT Home Fiber router hacking](https://kbeflo.github.io/2018/05/20/PLDT-Home-Fiber-router-hacking/)<br>
-[PLDT Home Fiber router console access](https://kbeflo.github.io/2018/05/20/PLDT-Home-Fiber-router-console-access/)<br>
-[PLDT Home Fiber router firmware and files](https://kbeflo.github.io/2018/05/20/PLDT-Home-Fiber-router-firmware-and-files/)<br>
-[PLDT Home Fiber router web interface admin access](https://kbeflo.github.io/2018/09/09/PLDT-Home-Fiber-web-interface-admin-access/)
+[PLDT Home Fiber router hacking](https://kbeflo.gitlab.io/2018/05/20/PLDT-Home-Fiber-router-hacking/)<br>
+[PLDT Home Fiber router console access](https://kbeflo.gitlab.io/2018/05/20/PLDT-Home-Fiber-router-console-access/)<br>
+[PLDT Home Fiber router firmware and files](https://kbeflo.gitlab.io/2018/05/20/PLDT-Home-Fiber-router-firmware-and-files/)<br>
+[PLDT Home Fiber router web interface admin access](https://kbeflo.gitlab.io/2018/09/09/PLDT-Home-Fiber-web-interface-admin-access/)
 
 ### Frequently Asked Questions
 
@@ -35,13 +42,13 @@ A walkthrough on hacking the PLDT FIBR AN5506-04-FA RP2627 router
 
 1. Gain admin access
 
-Instructions: https://kbeflo.github.io/2018/09/09/PLDT-Home-Fiber-web-interface-admin-access/
+Instructions: https://kbeflo.gitlab.io/2018/09/09/PLDT-Home-Fiber-web-interface-admin-access/
 
 2. On the web interface, Network > BroadBand Settings > Internet Settings 
 
 Check all the boxes on: LAN Binding, 2.4G SSID Binding and 5G SSID Binding
 
-Example: https://kbeflo.github.io/img/2018-09-09/01.png
+Example: https://kbeflo.gitlab.io/img/2018-09-09/01.png
 
 ### Donations
 

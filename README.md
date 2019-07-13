@@ -1,45 +1,27 @@
-### PLDT HOME FIBR AN5506-04-FA RP2627 Advanced Settings
-
----
-#### [Notice]
-
-##### Project moved to https://gitlab.com/kbeflo/fiberhomesuperadmin
-##### Gist here will not be updated anymore 
-##### Discussion here on Gist is still allowed but I strongly recommend going over to Gitlab or Discord chat
 ---
 
 By default the PLDT HOME FIBR AN5506-04-FA RP2627 comes only with limited settings.
 
 The following walkthrough consists of opening the device and enabling the advanced settings using the device serial console to enable access to the admin account on the web interface.
 
-### Rules
-
-**Avoid directly posting images**, it causes this page to become heavier and load much longer. Use links to image hosting sites https://i.imgur.com/UqX95Pb.gifv
-
-**Avoid 3rd party link shorteners**
-
-A lot of answers have already been answered, **backread before asking**.
-
-This is not your ISP support thread. Effort and time devoted by people on this thread is not paid for. **Do not ask to be spoon-fed**.
-
-### Disclaimer
+## Disclaimer
 
 This will void your device ISP warranty. Any modification done to your device comes with no guarantee. 
 
-Help from other members are appreciated, follow under your own discretion. We have no responsibility to any damage that can happen to any of your devices. **Mod at your own risk**.
+We have no responsibility to any damage that can happen to any of your devices. **Mod at your own risk**.
 
-### Walkthrough
+## Walkthrough
 
-A walkthrough on hacking the PLDT FIBR AN5506-04-FA RP2627 router
+Guides on accessing the router's advanced settings
 
 [PLDT Home Fiber router hacking](https://kbeflo.gitlab.io/2018/05/20/PLDT-Home-Fiber-router-hacking/)<br>
 [PLDT Home Fiber router console access](https://kbeflo.gitlab.io/2018/05/20/PLDT-Home-Fiber-router-console-access/)<br>
 [PLDT Home Fiber router firmware and files](https://kbeflo.gitlab.io/2018/05/20/PLDT-Home-Fiber-router-firmware-and-files/)<br>
 [PLDT Home Fiber router web interface admin access](https://kbeflo.gitlab.io/2018/09/09/PLDT-Home-Fiber-web-interface-admin-access/)
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
-#### How to activate LAN PORTS 2-4 / Remove AP ISOLATION?
+### How to activate LAN PORTS 2-4 / Remove AP ISOLATION?
 
 1. Gain admin access
 
@@ -49,7 +31,7 @@ Instructions: https://kbeflo.gitlab.io/2018/09/09/PLDT-Home-Fiber-web-interface-
 
 Check all the boxes on: LAN Binding, 2.4G SSID Binding and 5G SSID Binding
 
-Example: https://kbeflo.gitlab.io/img/2018-09-09/01.png
+Reference: https://kbeflo.gitlab.io/img/2018-09-09/01.png
 
 ### Donations
 

@@ -4,6 +4,7 @@
 #### [Notice]
 
 ##### Project moved to https://gitlab.com/kbeflo/fiberhomesuperadmin
+##### Gist here will not be updated anymore 
 ##### Discussion here on Gist is still allowed but I strongly recommend going over to Gitlab or Discord chat
 ---
 

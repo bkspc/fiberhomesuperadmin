@@ -21,7 +21,7 @@ Guides on accessing the router's advanced settings
 
 ## Frequently Asked Questions
 
-### How to activate LAN PORTS 2-4 / Remove AP ISOLATION?
+### How to activate LAN PORTS 2-4 / Remove ethernet isolation?
 
 1. Gain admin access
 
@@ -36,6 +36,10 @@ Reference: https://kbeflo.gitlab.io/img/2018-09-09/01.png
 ### Donations
 
 Paypal: https://www.paypal.me/kbeflo
+
+### Origin
+
+Gist: https://gist.github.com/kbeflo/de3b1610b1879f8e92966ba106f83f97
 
 ### Discord
 

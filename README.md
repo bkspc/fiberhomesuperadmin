@@ -1,6 +1,4 @@
-fiberhomesuperadmin
-
----
+# fiberhomesuperadmin
 
 By default the PLDT HOME FIBR AN5506-04-FA RP2627 comes only with limited settings.
 

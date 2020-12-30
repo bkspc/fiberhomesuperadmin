@@ -14,10 +14,10 @@ We have no responsibility to any damage that can happen to any of your devices. 
 
 Guides on accessing the router's advanced settings
 
-[PLDT Home Fiber router hacking](https://kbeflo.github.io/2018/05/20/PLDT-Home-Fiber-router-hacking/)<br>
-[PLDT Home Fiber router console access](https://kbeflo.github.io/2018/05/20/PLDT-Home-Fiber-router-console-access/)<br>
-[PLDT Home Fiber router firmware and files](https://kbeflo.github.io/2018/05/20/PLDT-Home-Fiber-router-firmware-and-files/)<br>
-[PLDT Home Fiber router web interface admin access](https://kbeflo.github.io/2018/09/09/PLDT-Home-Fiber-web-interface-admin-access/)
+[PLDT Home Fiber router hacking](https://kbeflo.github.io/2018/05/20/1-pldt-home-fiber-router-hacking)<br>
+[PLDT Home Fiber router console access](https://kbeflo.github.io/2018/05/20/2-pldt-home-fiber-console-access)<br>
+[PLDT Home Fiber router firmware and files](https://kbeflo.github.io/2018/05/20/3-pldt-home-fiber-router-firmware-and-files)<br>
+[PLDT Home Fiber router web interface admin access](https://kbeflo.github.io/2018/09/09/pldt-home-fiber-web-interface-admin-access)
 
 ## Frequently Asked Questions
 
@@ -25,7 +25,7 @@ Guides on accessing the router's advanced settings
 
 1. Gain admin access
 
-Instructions: https://kbeflo.github.io/2018/09/09/PLDT-Home-Fiber-web-interface-admin-access/
+Instructions: https://kbeflo.github.io/2018/09/09/pldt-home-fiber-web-interface-admin-access
 
 2. On the web interface, Network > BroadBand Settings > Internet Settings
 

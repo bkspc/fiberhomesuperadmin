@@ -39,7 +39,7 @@ Paypal: https://www.paypal.me/kbeflo
 
 ### Origin
 
-Gist: https://gist.github.com/kbeflo/de3b1610b1879f8e92966ba106f83f97
+Gist: https://gist.github.com/kleo/de3b1610b1879f8e92966ba106f83f97
 
 ### Discord
 

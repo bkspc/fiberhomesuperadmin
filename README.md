@@ -14,10 +14,10 @@ We have no responsibility to any damage that can happen to any of your devices. 
 
 Guides on accessing the router's advanced settings
 
-[PLDT Home Fiber router hacking](https://kbeflo.github.io/2018/05/20/1-pldt-home-fiber-router-hacking)<br>
-[PLDT Home Fiber router console access](https://kbeflo.github.io/2018/05/20/2-pldt-home-fiber-console-access)<br>
-[PLDT Home Fiber router firmware and files](https://kbeflo.github.io/2018/05/20/3-pldt-home-fiber-router-firmware-and-files)<br>
-[PLDT Home Fiber router web interface admin access](https://kbeflo.github.io/2018/09/09/pldt-home-fiber-web-interface-admin-access)
+[PLDT Home Fiber router hacking](https://kleo.github.io/2018/05/20/PLDT-Home-Fiber-router-hacking/)<br>
+[PLDT Home Fiber router console access](https://kleo.github.io/2018/05/20/PLDT-Home-Fiber-router-console-access/)<br>
+[PLDT Home Fiber router firmware and files](https://kleo.github.io/2018/05/20/PLDT-Home-Fiber-router-firmware-and-files/)<br>
+[PLDT Home Fiber router web interface admin access](https://kleo.github.io/2018/09/09/PLDT-Home-Fiber-web-interface-admin-access/)
 
 ## Frequently Asked Questions
 
@@ -25,17 +25,17 @@ Guides on accessing the router's advanced settings
 
 1. Gain admin access
 
-Instructions: https://kbeflo.github.io/2018/09/09/pldt-home-fiber-web-interface-admin-access
+Instructions: https://kleo.github.io/2018/09/09/PLDT-Home-Fiber-web-interface-admin-access/
 
 2. On the web interface, Network > BroadBand Settings > Internet Settings
 
 Check all the boxes on: LAN Binding, 2.4G SSID Binding and 5G SSID Binding
 
-Reference: https://kbeflo.github.io/img/2018-09-09/01.png
+Reference: https://kleo.github.io/img/2018-09-09/01.png
 
 ### Donations
 
-Paypal: https://www.paypal.me/kbeflo
+Paypal: https://www.paypal.me/kleobercero
 
 ### Origin
 
@@ -47,7 +47,7 @@ Backspace https://discord.gg/C43625u
 
 ### Hidden URLs
 
-The URLs were usable from version RP2616 and lower but as of firmware RP2627 update the URLs below are now restricted and will redirect back to the login page.
+The URLs were usable from version RP2616 and lower but as of firmware RP2627 update the URLs below are now restricted and will redirect back to the login page. [Reference](https://kleo.github.io/2018/05/20/PLDT-Home-Fiber-router-hacking/)
 
 <details>
     <summary>AN5506-04-FA RP2616</summary>
@@ -60,10 +60,10 @@ The URLs were usable from version RP2616 and lower but as of firmware RP2627 upd
 
     Note that you have to log in again if you're idle for a few minutes on the web interface.
 
-        
+
         username: admin
         password: 1234
-        
+
         http://192.168.1.1/application/ddns.asp		            # Configure DDNS
         http://192.168.1.1/application/dlna.asp                         # Enable or disable DLNA service
         http://192.168.1.1/application/dmz.asp			    # Set host IP to DMZ
@@ -179,6 +179,6 @@ The URLs were usable from version RP2616 and lower but as of firmware RP2627 upd
         http://192.168.1.1/style/frame_pldt.css
         http://192.168.1.1/style/style.css
         http://192.168.1.1/style/frame_romania.css
-        
+
 
 </details>

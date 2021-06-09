@@ -43,7 +43,7 @@ Backspace https://discord.gg/C43625u
 
 ### Hidden URLs
 
-The URLs were usable from version RP2616 and lower but as of firmware RP2627 update the URLs below are now restricted and will redirect back to the login page. [Reference](https://kleo.github.io/2018/05/20/PLDT-Home-Fiber-router-hacking/)
+The URLs were usable from version RP2616 and lower but as of firmware RP2627 update the URLs below are now restricted and will redirect back to the login page. [Reference](https://kleo.github.io/pldt-home-fiber-router-hacking)
 
 <details>
     <summary>AN5506-04-FA RP2616</summary>
